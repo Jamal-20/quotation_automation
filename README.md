@@ -10,11 +10,12 @@ Designed to **optimize tender and quotation workflows**, reduce processing time,
 [![Platform](https://img.shields.io/badge/platform-Windows-lightgrey.svg)](https://www.microsoft.com/windows/)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 
-![App Screenshot](screenshots/app.png)
 
 ---
 
-## 🔄 System Workflow
+## 🔄 Workflow Automation
+
+![AutoQ Genz - automated quotation process](AutoQ_Jamaluddin.png)
 
 ---
 
