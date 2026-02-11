@@ -1,5 +1,5 @@
 echo ================================================
-echo    SAMCO Quotation Generator - Installation Start
+echo    ProQuote Auto Quotation Generator - Installation Start
 echo ================================================
 
 ## Prerequisites: 
@@ -28,4 +28,5 @@ python -c "import PyQt6, pandas, openpyxl, win32com"
 
 echo ================================================
 echo    INSTALLATION COMPLETED SUCCESSFULLY!
+
 
