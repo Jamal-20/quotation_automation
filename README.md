@@ -1,6 +1,6 @@
 
 
-# AutoQ Genz📝 
+# ProQuote Auto📝 
 
 An automated Windows desktop application that generates **Excel and PDF quotations** from predefined templates.  
 Designed to **optimize tender and quotation workflows**, reduce processing time, improve accuracy, and ensure consistent, compliant outputs for **NUPCO, government bids, and enterprise procurement**.
@@ -15,13 +15,13 @@ Designed to **optimize tender and quotation workflows**, reduce processing time,
 
 ## 🔄 Workflow Automation
 
-![AutoQ Genz - automated quotation process](AutoQ_Jamaluddin.png)
+![ProQuote Auto - quotation process](ProQuoteAuto_Jamaluddin.png)
 
 ---
 
 ## Overview
 
-**AutoQ Genz** is a purpose-built desktop application created to streamline and standardize the preparation of tender and sales quotations.
+**ProQuote Auto** is a purpose-built desktop application created to streamline and standardize the preparation of tender and sales quotations.
 
 Instead of manually editing quotations line by line, the application automatically reads structured data from Excel input files and injects it into professionally formatted quotation templates. The system then produces both:
 
@@ -98,7 +98,8 @@ PDF Output/ – Final, printable PDF quotations
 To create a Windows .exe file:
 ```
 pip install pyinstaller
-pyinstaller --onefile --windowed --name "SAMCO_Quotation_Generator" --icon=app.ico quotation_generator.py
+cd Desktop\QuotationGenerator
+pyinstaller --onefile --windowed --name "ProQuote_Auto_Quotation_Generator" --clean quotation_generator.py
 ```
 ---
 ### License📄 
