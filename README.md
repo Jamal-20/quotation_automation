@@ -2,6 +2,8 @@
 
 # ProQuote Auto📝 
 
+![ProQuote Auto - quotation process](ProQuoteAuto.png)
+
 An automated Windows desktop application that generates **Excel and PDF quotations** from predefined templates.  
 Designed to **optimize tender and quotation workflows**, reduce processing time, improve accuracy, and ensure consistent, compliant outputs for **NUPCO, government bids, and enterprise procurement**.
 
@@ -13,7 +15,7 @@ Designed to **optimize tender and quotation workflows**, reduce processing time,
 
 ---
 
-## 🔄 Workflow Automation
+## Workflow Automation🔄 
 
 ![ProQuote Auto - quotation process](ProQuoteAuto_Jamaluddin.png)
 
