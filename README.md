@@ -2,7 +2,10 @@
 
 # ProQuote Auto📝 
 
-![ProQuote Auto - quotation process](ProQuoteAuto.png)
+## 🎬 Demo Video
+
+https://github.com/Jamal-20/quotation_automation/issues/1#issue-3959553808
+--
 
 An automated Windows desktop application that generates **Excel and PDF quotations** from predefined templates.  
 Designed to **optimize tender and quotation workflows**, reduce processing time, improve accuracy, and ensure consistent, compliant outputs for **NUPCO, government bids, and enterprise procurement**.
